@@ -1,0 +1,6 @@
+这是一个基于Zerotier的内网穿透
+原理通过使用自己的拥有公网IP的服务器作为Zerotier的moon服务器进行中转，实现内网穿透
+参考项目
+https://gitee.com/spoto/natserver.git
+参考视频
+https://www.youtube.com/watch?v=rj8vhniGrwA
